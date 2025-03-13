@@ -1,0 +1,10 @@
+git init 
+git status 
+sudo git config user.name "UtkarshAmbekar18" 
+sudo git config user.email "utkarshambekar@gmail.com" 
+git remote add origin https://github.com/UtkarshAmbekar18/B_01.git
+git remote set-url origin https://UtkarshAmbekar18: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@github.com/UtkarshAmbekar18/B_01.git 
+git add . 
+git status 
+git commit -m "my first code" 
+git push origin master
